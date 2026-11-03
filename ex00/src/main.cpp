@@ -1,4 +1,4 @@
-#include "../include/Whatever.hpp"
+#include "../include/whatever.hpp"
 #include "../include/color.hpp"
 
 #include <iostream>
